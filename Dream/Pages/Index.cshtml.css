@@ -1,0 +1,16 @@
+﻿.body {
+    background-color: #0C2231;
+    min-height: 100vh;
+}
+
+.banner-bg {
+    background-color: #2C363F;
+}
+
+.featured-preview {
+    filter: brightness(50%);
+}
+
+.featured-preview:hover {
+    filter: brightness(100%);
+}
